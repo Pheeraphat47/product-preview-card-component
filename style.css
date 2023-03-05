@@ -98,7 +98,7 @@ p {
     font-family: 'Montserrat', sans-serif;
 }
 
-.product-info .add-to-cart:hover {
+.product-info .add-to-cart:active {
     background-color: hsl(212, 21%, 14%);
 }
 .icon {
